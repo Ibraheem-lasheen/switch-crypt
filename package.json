@@ -1,0 +1,14 @@
+{
+  "name": "switch-crypt",
+  "version": "1.0.0",
+  "description": "\"switch-crypt is an algorithm to hashing data\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
